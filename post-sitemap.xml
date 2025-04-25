@@ -2,59 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/blog/amet-mi-sagittis-magnis-tempor-efficitur-dolor-dis/</loc>
-		<lastmod>2025-03-14T20:29:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/blog/accumsan-lectus-tristique-suscipit-eros-dui-consectetur-tempus/</loc>
-		<lastmod>2025-03-14T20:26:38+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/blog/erat-natoque-aliquet/</loc>
-		<lastmod>2025-03-14T20:25:45+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/blog/pharetra-curabitur-dictum-tempor-ultricies-litora/</loc>
-		<lastmod>2025-03-14T20:24:39+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/blog/hello-world/</loc>
-		<lastmod>2025-03-14T18:41:15+00:00</lastmod>
+		<lastmod>2025-04-25T14:17:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
 		</image:image>

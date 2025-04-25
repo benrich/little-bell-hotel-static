@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-03-25T12:31:54+00:00</lastmod>
+		<lastmod>2025-04-17T10:26:12+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
 		</image:image>
@@ -22,7 +22,7 @@
 			<image:loc>/wp-content/uploads/2025/03/LBH_RomanticGetawaysIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/LBH_FamilyHolidayIcon.svg</image:loc>
+			<image:loc>/wp-content/uploads/2025/03/LBH_PrivateEventIcon.svg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/03/LBH_WeekendBreakIcon.svg</image:loc>
@@ -35,14 +35,12 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/faqs/</loc>
+		<lastmod>2025-04-25T14:34:37+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/packages/</loc>
-		<lastmod>2025-03-24T14:21:37+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
-		</image:image>
+		<lastmod>2025-04-24T14:50:10+00:00</lastmod>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
 		</image:image>
@@ -57,84 +55,49 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/contact/</loc>
-		<lastmod>2025-03-24T13:23:50+00:00</lastmod>
+		<loc>/packages/luxury-bells/</loc>
+		<lastmod>2025-04-24T14:28:55+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-7_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/LBH_ContactUsMap.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/about-us/</loc>
-		<lastmod>2025-03-19T16:51:47+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-1_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-3_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-10_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-9_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-6_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/placeholder-widescreen.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-5_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/AboutUs.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>/packages/package-name/</loc>
-		<lastmod>2025-03-19T16:46:25+00:00</lastmod>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/couple-with-bell-tent-enjoying-the-morning_Edited-300x200.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-7_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tents-with-wild-flowers_Edited-e1741695655841-300x137.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-1_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tents-in-long-grass-summers-day_Editedv3-300x158.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-3_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tents-in-long-grass-summers-day_Editedv2-300x158.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-10_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tents-in-long-grass-summers-day_Edited-300x158.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-9_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tent-in-the-woods_Edited-300x200.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-6_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tent-and-blue-sky_Edited-300x200.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/couple-with-bell-tent-enjoying-the-morning_Edited.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tents-with-wild-flowers_Edited-e1741695655841-768x351.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tents-in-long-grass-summers-day_Editedv3.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tents-in-long-grass-summers-day_Editedv2.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tents-in-long-grass-summers-day_Edited.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tent-in-the-woods_Edited.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>/wp-content/uploads/2025/03/bell-tent-and-blue-sky_Edited.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2025/04/Luxury-Bells-5_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
@@ -144,8 +107,219 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/faqs/</loc>
-		<lastmod>2025-03-15T13:33:12+00:00</lastmod>
+		<loc>/packages/blank-canvas/</loc>
+		<lastmod>2025-04-24T14:27:22+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-1_EditedSml-300x225.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-2_Edited-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-3_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-5_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-6_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-7_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-9_EditedSml-200x300.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-1_EditedSml-1536x1152.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-2_Edited-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-3_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-5_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-6_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-7_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Blank-Bell-Tent-9_EditedSml-1024x1536.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/packages/wedding-bells/</loc>
+		<lastmod>2025-04-24T14:14:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Weddings-Bells-6_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Wedding-Bell-Tents-2nd-image_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Wedding-Bells-4_Edited-225x300.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Weddings-Bells-7_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Weddings-Bell-Tents-3rd-image_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Weddings-Bells-5_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Weddings-Bells-6_EditedSml.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Wedding-Bell-Tents-2nd-image_EditedSml.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Wedding-Bells-4_Edited-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Weddings-Bells-7_EditedSml.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Weddings-Bell-Tents-3rd-image_EditedSml.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Weddings-Bells-5_EditedSml.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/packages/glamping-bells/</loc>
+		<lastmod>2025-04-24T14:12:23+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-8_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-1_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-2_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-6_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-9_Edited-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-5_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-4_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-10_EditedSml-1-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-11_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-3_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-12_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-13_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-8_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-1_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-2_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-6_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-9_Edited-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-5_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-4_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-10_EditedSml-1-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-11_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-3_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-12_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping-Bells-13_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/about-us/</loc>
+		<lastmod>2025-04-23T21:37:02+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/LBH_MakingMemories2Icon.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/LBH_SleepWellIcon3.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/LBH_BeWild2Icon.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/LBH_Recharge2Icon.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/LBH_ComeAgainIcon.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/04/Glamping_Bells_2_EditedSmlAboutUs.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/AboutUs.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/contact/</loc>
+		<lastmod>2025-04-17T08:24:35+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/03/LBH_ContactUsMap.svg</image:loc>
+		</image:image>
 	</url>
 	<url>
 		<loc>/privacy/</loc>
