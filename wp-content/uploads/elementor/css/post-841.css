@@ -3,8 +3,8 @@
 	font-style: normal;
 	font-weight: bold;
 	font-display: auto;
-	src: url('/wp-content/themes/little-bell-hotel/dist/fonts/HelveticaNeue-CondensedBold.woff2') format('woff2'),
-		url('/wp-content/themes/little-bell-hotel/dist/fonts/HelveticaNeue-CondensedBold.woff') format('woff'),
-		url('/wp-content/themes/little-bell-hotel/dist/fonts/HelveticaNeue-CondensedBold.ttf') format('truetype');
+	src: url('./../../../themes/little-bell-hotel/dist/fonts/HelveticaNeue-CondensedBold.woff2') format('woff2'),
+		url('./../../../themes/little-bell-hotel/dist/fonts/HelveticaNeue-CondensedBold.woff') format('woff'),
+		url('./../../../themes/little-bell-hotel/dist/fonts/HelveticaNeue-CondensedBold.ttf') format('truetype');
 }
 /* End Custom Fonts CSS */
