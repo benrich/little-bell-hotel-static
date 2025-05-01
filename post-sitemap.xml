@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/blog/amet-mi-sagittis-magnis-tempor-efficitur-dolor-dis/</loc>
-		<lastmod>2025-04-30T20:38:45+00:00</lastmod>
+		<loc>/blog/camping-with-kids-a-parents-guide/</loc>
+		<lastmod>2025-05-01T10:35:06+00:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/03/iStock-1342684727-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/03/kids-riding-bikes-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/plugins/elementor/assets/images/placeholder.png</image:loc>
+			<image:loc>/wp-content/uploads/2025/03/summer-in-uk-near-lock-1024x683.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
