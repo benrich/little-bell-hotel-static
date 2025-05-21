@@ -1,328 +1,328 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://simplystatic.littlebellhotel.co.uk/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//littlebellhotel.co.uk/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/</loc>
+		<loc>https://littlebellhotel.co.uk/</loc>
 		<lastmod>2025-05-01T11:12:51+00:00</lastmod>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_BellTentVillageIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_BellTentVillageIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_SleepoverIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_SleepoverIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_GardenPartyIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_GardenPartyIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_CorporateEventsIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_CorporateEventsIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_RomanticGetawaysIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_RomanticGetawaysIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PrivateEventIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PrivateEventIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeekendBreakIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeekendBreakIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_SchoolCampingTripsIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_SchoolCampingTripsIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_FestivalsIcon.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/contact/</loc>
-		<lastmod>2025-05-01T12:46:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_ContactUsMap.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_FestivalsIcon.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/packages/blank-canvas/</loc>
-		<lastmod>2025-05-01T10:40:08+00:00</lastmod>
+		<loc>https://littlebellhotel.co.uk/contact/</loc>
+		<lastmod>2025-05-20T10:50:16+00:00</lastmod>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-1_EditedSml-300x225.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-2_Edited-300x200.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-3_EditedSml-300x200.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-5_EditedSml-300x200.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-6_EditedSml-300x200.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-7_EditedSml-300x200.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-9_EditedSml-200x300.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-1_EditedSml-1536x1152.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-2_Edited-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-3_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-5_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-6_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-7_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-9_EditedSml-1024x1536.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_ContactUsMap.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/packages/glamping-bells/</loc>
-		<lastmod>2025-05-01T10:39:17+00:00</lastmod>
+		<loc>https://littlebellhotel.co.uk/packages/blank-canvas/</loc>
+		<lastmod>2025-05-06T19:25:54+00:00</lastmod>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-8_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-1_EditedSml-300x225.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-1_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-2_Edited-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-2_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-3_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-6_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-5_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-9_Edited-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-6_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-5_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-7_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-4_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-9_EditedSml-200x300.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-10_EditedSml-1-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-1_EditedSml-1536x1152.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-11_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-2_Edited-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-3_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-3_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-12_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-5_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-13_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-6_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-8_EditedSml-1536x1024.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-7_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-1_EditedSml-1536x1024.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Blank-Bell-Tent-9_EditedSml-1024x1536.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-2_EditedSml-1536x1024.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-6_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-9_Edited-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-5_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-4_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-10_EditedSml-1-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-11_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-3_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-12_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-13_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/packages/luxury-bells/</loc>
-		<lastmod>2025-05-01T10:38:32+00:00</lastmod>
+		<loc>https://littlebellhotel.co.uk/packages/wedding-bells/</loc>
+		<lastmod>2025-05-01T15:04:17+00:00</lastmod>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-7_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-6_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-1_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Wedding-Bell-Tents-2nd-image_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-3_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Wedding-Bells-4_Edited-225x300.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-10_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-7_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-9_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bell-Tents-3rd-image_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-6_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-5_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-5_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-6_EditedSml.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-7_EditedSml-1536x1024.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Wedding-Bell-Tents-2nd-image_EditedSml.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-1_EditedSml-1536x1024.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Wedding-Bells-4_Edited-scaled.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-3_EditedSml-1536x1024.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-7_EditedSml.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-10_EditedSml-1536x1024.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bell-Tents-3rd-image_EditedSml.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-9_EditedSml-1536x1024.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-5_EditedSml.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-6_EditedSml-1536x1024.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-5_EditedSml-1536x1024.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/packages/wedding-bells/</loc>
-		<lastmod>2025-05-01T10:37:33+00:00</lastmod>
+		<loc>https://littlebellhotel.co.uk/packages/luxury-bells/</loc>
+		<lastmod>2025-05-01T15:04:11+00:00</lastmod>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-6_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-7_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Wedding-Bell-Tents-2nd-image_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-1_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Wedding-Bells-4_Edited-225x300.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-3_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-7_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-10_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bell-Tents-3rd-image_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-9_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-5_EditedSml-300x200.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-6_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-6_EditedSml.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-5_EditedSml-300x200.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Wedding-Bell-Tents-2nd-image_EditedSml.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-7_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Wedding-Bells-4_Edited-scaled.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-1_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-7_EditedSml.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-3_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bell-Tents-3rd-image_EditedSml.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-10_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Weddings-Bells-5_EditedSml.jpg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-9_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-6_EditedSml-1536x1024.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Luxury-Bells-5_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/packages/</loc>
+		<loc>https://littlebellhotel.co.uk/packages/glamping-bells/</loc>
+		<lastmod>2025-05-01T15:04:03+00:00</lastmod>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-8_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-1_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-2_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-6_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-9_Edited-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-5_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-4_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-10_EditedSml-1-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-11_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-3_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-12_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-13_EditedSml-300x200.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-8_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-1_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-2_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-6_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-9_Edited-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-5_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-4_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-10_EditedSml-1-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-11_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-3_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-12_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping-Bells-13_EditedSml-1536x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_WeddingIcon.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_PackagePerfection.svg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://littlebellhotel.co.uk/packages/</loc>
 		<lastmod>2025-04-30T20:19:30+00:00</lastmod>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/logo-tent-only.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/about-us/</loc>
+		<loc>https://littlebellhotel.co.uk/about-us/</loc>
 		<lastmod>2025-04-29T20:00:54+00:00</lastmod>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_MakingMemories2Icon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_MakingMemories2Icon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_SleepWellIcon3.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_SleepWellIcon3.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_BeWild2Icon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_BeWild2Icon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_Recharge2Icon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_Recharge2Icon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_ComeAgainIcon.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/04/LBH_ComeAgainIcon.svg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping_Bells_2_EditedSmlAboutUs.jpg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/04/Glamping_Bells_2_EditedSmlAboutUs.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://simplystatic.littlebellhotel.co.uk/wp-content/uploads/2025/03/AboutUs.svg</image:loc>
+			<image:loc>http://dev.littlebellhotel.co.uk/wp-content/uploads/2025/03/AboutUs.svg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/faqs/</loc>
+		<loc>https://littlebellhotel.co.uk/faqs/</loc>
 		<lastmod>2025-04-25T14:34:37+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://simplystatic.littlebellhotel.co.uk/privacy/</loc>
+		<loc>https://littlebellhotel.co.uk/privacy/</loc>
 		<lastmod>2025-03-10T19:32:15+00:00</lastmod>
 	</url>
 </urlset>
