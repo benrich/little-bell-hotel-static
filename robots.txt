@@ -1,1 +1,5 @@
-Sitemap: https://littlebellhotel.co.uk/sitemap_index.xml
+# Is only used on the staging site
+# The live file is managed directly within github 
+
+User-agent: *
+Disallow: /
