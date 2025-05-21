@@ -1,2 +1,1 @@
-User-agent: *
-Disallow: /
+Sitemap: https://littlebellhotel.co.uk/sitemap_index.xml
