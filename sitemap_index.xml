@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://littlebellhotel.co.uk/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//staging.littlebellhotel.co.uk/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://littlebellhotel.co.uk/post-sitemap.xml</loc>
@@ -6,6 +6,6 @@
 	</sitemap>
 	<sitemap>
 		<loc>https://littlebellhotel.co.uk/page-sitemap.xml</loc>
-		<lastmod>2025-05-23T11:12:26+00:00</lastmod>
+		<lastmod>2025-05-23T14:19:19+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
