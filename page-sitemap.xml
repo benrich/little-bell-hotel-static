@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://littlebellhotel.co.uk/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//staging.littlebellhotel.co.uk/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://littlebellhotel.co.uk/</loc>
@@ -6,7 +6,7 @@
 	</url>
 	<url>
 		<loc>https://littlebellhotel.co.uk/contact/</loc>
-		<lastmod>2025-05-23T11:12:26+00:00</lastmod>
+		<lastmod>2025-05-23T14:19:19+00:00</lastmod>
 		<image:image>
 			<image:loc>https://littlebellhotel.co.uk/wp-content/uploads/2025/03/LBH_FullColourFavicon_25.svg</image:loc>
 		</image:image>
